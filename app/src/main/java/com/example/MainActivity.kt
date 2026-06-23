@@ -251,7 +251,7 @@ fun ScanProfileCard() {
       )
       
       Spacer(modifier = Modifier.height(16.dp))
-      Divider(color = Outline)
+      HorizontalDivider(color = Outline)
       Spacer(modifier = Modifier.height(16.dp))
       
       Row(
